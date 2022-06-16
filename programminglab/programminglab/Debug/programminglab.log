@@ -1,0 +1,6 @@
+﻿  mazeGame.cpp
+c:\users\dilek\desktop\programminglab\programminglab\mazegame.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dilek\desktop\programminglab\programminglab\mazegame.cpp(25): warning C4101: 'a': unreferenced local variable
+c:\users\dilek\desktop\programminglab\programminglab\mazegame.cpp(25): warning C4101: 'b': unreferenced local variable
+c:\users\dilek\desktop\programminglab\programminglab\mazegame.cpp(234): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  programminglab.vcxproj -> C:\Users\dilek\Desktop\programminglab\Debug\programminglab.exe
